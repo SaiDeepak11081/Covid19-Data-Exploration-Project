@@ -89,8 +89,6 @@ Create dashboards for:
 
 The original datasets used in this project are provided by [Our World in Data](https://ourworldindata.org/coronavirus):
 
-- [COVID-19 Dataset (CSV)](https://covid.ourworldindata.org/data/owid-covid-data.csv)
-
 You can access the cleaned Excel versions of the datasets here:
 
 - [CovidDeaths - Google Sheet](https://docs.google.com/spreadsheets/d/18TAmz6x4TUQlacYAm0-zDLEY-hEHJClN/edit?usp=sharing&ouid=109068200435034755517&rtpof=true&sd=true)
